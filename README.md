@@ -1,13 +1,20 @@
-## Hi there, I'm David 🧑‍🎨
+Hi, I'm David.
 
-Developing for over 10 years and I still love it. Currently focusing on learning Bitcoin (Rust) 🧡🦀
+Systems engineer with 10+ years in backend and infrastructure.
+Currently focused on Bitcoin and Lightning development in Rust.
 
-## What I used to work on
+Interests:
+• Bitcoin protocol & UTXO mechanics  
+• Lightning
+• Self-custody & local custody models  
+• Distributed systems
 
-- Mobile Development (React Native)
-- Backend & Infrastructure (IoT, AWS, DynamoDB, Terraform)
-- Smart Contracts (ETH Solidity)
+Background:
+• IoT infrastructure (AWS, DynamoDB, Terraform)
+• Backend systems (Node, Rust)
+• Mobile (React Native)
+• Smart contracts (Solidity)
 
-## Contact
-- Email: me@vittoridavid.com
-- LinkedIn: https://linkedin.com/in/vittori
+Contact:
+Email: me@vittoridavid.com  
+LinkedIn: linkedin.com/in/vittori
