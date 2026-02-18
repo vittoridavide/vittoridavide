@@ -5,14 +5,13 @@ Currently focused on Bitcoin and Lightning development in Rust.
 
 **Interests**
 
-Bitcoin protocol & UTXO mechanics
-Lightning (BOLT04, routing, fee logic)
-Self-custody & local custody models
-Distributed systems
+- Bitcoin protocol & UTXO mechanics
+- Lightning
+- Self-custody & local custody models
 
 **Background**
 
-IoT infrastructure (AWS, DynamoDB, Terraform)
-Backend systems (Node, Rust)
-Mobile (React Native)
-Smart contracts (Solidity)
+- IoT infrastructure (AWS, DynamoDB, Terraform)
+- Backend systems (Node, Rust)
+- Mobile (React Native)
+- Smart contracts (Solidity)
