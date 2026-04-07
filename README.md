@@ -2,7 +2,6 @@
   
   > “Nel mezzo del cammin di nostra vita...”
   > — Dante Alighieri
-  Midway through the journey. Still building.
 
   My mom still laughs when she tells me I spent my childhood buried in puzzles and math books. That curiosity never really went away it just found a better outlet.
 
